@@ -10,3 +10,6 @@
 
 - 프롬프트: 01: 'C:\CV\Week01\index.html' + `과제 0 태양계 저장소와 첫 캔버스` + '리드미 먼저 작성해 주고 깃에 올릴거니까 브런치 먼저 수정해서 커밋부터 하자. C:\CV\Week01\index.html 파일 주석 달지 말고 하나하나 설명해줘.
 - 수정: 리드미 작성 수정
+
+### URL
+https://letsgohye1.github.io/cg-2026-solar/
